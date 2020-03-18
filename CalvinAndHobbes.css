@@ -84,7 +84,7 @@ div #main
 	background-color: #AE9B5A;
 	margin-left: auto;
 	
-}e
+}
 
 div #centroDos
 {
@@ -113,10 +113,7 @@ p
 	margin-bottom:-5px;
 }
 h1
-{
-	text-align:center;
-	border:10px inset #73AD21;
-}
+
 h2,h4,h3
 {
 	font-family: 'Noto Sans', sans-serif;
