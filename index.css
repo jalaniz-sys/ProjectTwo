@@ -30,6 +30,7 @@ body
 h2,h4
 {
 	font-family: 'Noto Sans', sans-serif;
+
 	text-align: left;
 	color:white;
 	text-decoration:underline;
@@ -42,7 +43,8 @@ h1
 }
 ul.p 
 {
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Noto Sans', sans-serif;
+
 	font-size: 17px;
 }
 
