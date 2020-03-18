@@ -1,18 +1,15 @@
-body
-{
+body{
 	background-color:#BDA395;
 	width:60%;
 	margin-right:auto;
 	margin-left:auto;
 	padding:40px;
 }
-h1
-{
+h1{
 	text-align:center;
 	border: 10px inset #73AD21;
 }
-.nav
-{
+.nav{
 	top:0px;
 	text-align:center;
 	list-style:none;
@@ -24,27 +21,23 @@ h1
 	text-transform: uppercase;
 
 }
-.nav li
-{
+.nav li{
 	display:inline-block;
 }
-.nav a
-{
+.nav a{
 	
 	color:black;
 	display:inline-block;
 	padding:12px;
 }
-img.a
-{
+img.a{
 	margin-left:auto;
 	margin-right:auto;
 	display:block;
 	border-radius:30%;
 	
 }
-div#centro
-{
+div#centro{
 	width:30%;
 	margin-top:1px;
 	padding:10px;
@@ -55,8 +48,7 @@ div#centro
 	
 	
 }
-div#mid
-{
+div#mid{
 	float:right;
 	width:30%;
 	margin-top:1px;
@@ -67,15 +59,13 @@ div#mid
 }
 
 
-img.foto
-{
+img.foto{
 	margin-left:auto;
 	margin-right: auto;
 	display:block;
 	
 }
-div #main
-{
+div #main{
 	float:left;
 	width:30%;
 	margin-top:1px;
@@ -86,8 +76,7 @@ div #main
 	
 }
 
-div #centroDos
-{
+div #centroDos{
 	
 	width:30%;
 	margin-top:1px;
@@ -98,15 +87,13 @@ div #centroDos
 	margin-right: auto;
 	
 }
-img.bigboy
-{
+img.bigboy{
 	display:block;
 	margin-left: auto;
 	margin-right: auto;
 	width:50%;
 }
-p
-{
+p{
 	margin-left: 90px;
 	margin-top:80px;
 	margin-right: 45px;
@@ -114,8 +101,7 @@ p
 }
 
 
-h2,h4,h3
-{
+h2,h4,h3{
 	font-family: 'Noto Sans', sans-serif;
 	text-align:left;
     display:block;
