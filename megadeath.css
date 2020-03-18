@@ -1,0 +1,35 @@
+body {
+		background-image:url(images/fire2.jpg);  
+		width:920px;
+		margin-left: auto;
+  		margin-right: auto;
+  		color: white;
+
+}
+
+.nav {
+
+	text-align:center; 
+	list-style:none;
+	margin:0;
+	padding:0;
+	border:5px solid #F0F8FF;
+	background-color:black;
+	text-transform: uppercase;
+	font-family: 'Inconsolata', monospace;
+
+}
+.nav li{
+
+	display:inline-block;
+}
+.nav a{
+	color:white;
+	display:inline-block;
+	padding:12px;
+}
+img.foto{
+  margin-left: auto;
+  margin-right: aut
+
+}
