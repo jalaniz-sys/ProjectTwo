@@ -98,3 +98,17 @@ div #centroDos
 	margin-right: auto;
 	
 }
+img.bigboy
+{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	width:50%;
+}
+p
+{
+	margin-left: 90px;
+	margin-top:80px;
+	margin-right: 45px;
+	margin-bottom:-5px;
+}
