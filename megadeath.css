@@ -45,7 +45,7 @@ h1
 	text-align:center;
 	text-shadow:4px 5px red;
 	font-family: 'Teko', sans-serif;
-	border:10px inet yellow;
+	border:10px  yellow;
 
 }
 
@@ -77,7 +77,7 @@ ul.about
 ul.m{
 	list-style-type:none;
 	font-size:16px;
-	tex-align:center;
+	text-align:center;
 	font-family: 'Teko', sans-serif;
 	font-size:20px;
 	
