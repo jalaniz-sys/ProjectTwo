@@ -1,0 +1,16 @@
+body
+{
+	background-color:#ff9999;
+}
+.nav
+{
+	text-align:center;
+	list-style:none;
+	margin:0;
+	padding:0;
+	border:5px solid #F0F8FF;
+	background-color:ivory;
+	font-family: 'Inconsolata', monospace;
+	text-transform: uppercase;
+
+}
