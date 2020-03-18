@@ -40,4 +40,9 @@ h1
 {
 	display:inline-block;
 }
+ul.p 
+{
+	font-family: 'Oswald', sans-serif;
+	font-size: 17px;
+}
 
