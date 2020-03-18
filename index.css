@@ -14,3 +14,30 @@ body
 	text-transform: uppercase;
 
 }
+.nav li
+{
+	display:inline-block;
+	
+}
+
+.nav a
+{
+	color:black;
+	display:inline-block;
+	padding:12px;
+}
+
+h2,h4
+{
+	font-family: 'Noto Sans', sans-serif;
+	text-align: left;
+	color:white;
+	text-decoration:underline;
+	text-decoration-style:double;
+	
+}
+h1
+{
+	display:inline-block;
+}
+
