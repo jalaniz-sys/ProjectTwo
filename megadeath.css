@@ -30,6 +30,33 @@ body {
 }
 img.foto{
   margin-left: auto;
-  margin-right: aut
+  margin-right: auto;
+  display:block;
 
 }
+
+
+
+
+
+h1
+{
+	color:white;
+	text-align:center;
+	text-shadow:4px 5px red;
+	font-family: 'Teko', sans-serif;
+	border:10px inet yellow;
+
+}
+
+h2 {
+background-color: orange;
+color:black;
+text-align:center;
+}
+ol.p
+{
+	list-style-type:none;
+	
+}
+	
