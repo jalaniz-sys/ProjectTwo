@@ -49,6 +49,7 @@ h1
 
 }
 
+
 h2 {
 background-color: orange;
 color:black;
@@ -57,6 +58,30 @@ text-align:center;
 ol.p
 {
 	list-style-type:none;
+	text-align:center;
+	margin:0;
+	padding:0;
+	font-size:20px;
+	font-family: 'Teko', sans-serif;
+}
+h3{
+	text-align:none;
+	font-family: 'Teko', sans-serif;
+	font-size: 25px;
+	color:red;
+}
+ul.about
+{
+	font-family: 'Baloo Da 2', cursive;
+}
+ul.m{
+	list-style-type:none;
+	font-size:16px;
+	tex-align:center;
+	font-family: 'Teko', sans-serif;
+	font-size:20px;
 	
 }
+	
+
 	
