@@ -112,3 +112,14 @@ p
 	margin-right: 45px;
 	margin-bottom:-5px;
 }
+h1
+{
+	text-align:center;
+	border:10px inset #73AD21;
+}
+h2
+{
+	font-family: 'Noto Sans', sans-serif;
+	text-align:left;
+    display:block;
+}
