@@ -117,7 +117,7 @@ h1
 	text-align:center;
 	border:10px inset #73AD21;
 }
-h2
+h2,h4,h3
 {
 	font-family: 'Noto Sans', sans-serif;
 	text-align:left;
